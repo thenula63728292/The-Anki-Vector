@@ -88,7 +88,6 @@ buttons = [
     ],
 ]
 
-DOFINI_IMG = "https://telegra.ph/file/2021-07-02_22-09-40.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg)
