@@ -9,29 +9,28 @@
 
 
 ### Video Tutorial:
-Complete guide on deploying @TheAnkiVectorbot's clone on Heroku.
+Complete guide on deploying @DofiniDevbotbot's clone on Heroku.
 
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=fXXEcAkWAFU)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
 
 
 
 ## New version Avaiilable on Telegram as [The-Anki-Vector-Bot](https://t.me/DofiniDevbot)
-## The-Anki-Vector-Bot is the latest
+## Dofini-Bot is the latest
 
 
 
 
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+The bot is based on the original work done by [PaulSonOfLars](https://github.com/ImTheekshanaBro)
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 All other credits mentioned on top of scripts
 
-Should any be missing kindly let us know at [The Anki Vector bot](https://t.me/DofiniUpdates) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Dofini Updates ](https://t.me/DofiniUpdates) or simply submit a pull request on the readme.
 
-## The Anki Vector bot the telegram Bot Project
+## Dofini bot the telegram Bot Project
 The Advanced Branch (For PRO's)
 
-The Anki Vector bot(advvanced)
+Dofini bot(advvanced)
 
 ## Special Credits
-- [Damantha](https://github.com/Dofini) - A Co-Developer of Project
+- [Pawan](https://github.com/Dofini) - A Co-Developer of Project
