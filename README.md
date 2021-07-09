@@ -1,4 +1,4 @@
-# [The-Mizu-Bot]
+# The-Mizu-Bot
 A next gen powerful telegram group manager bot for manage your groups and have fun with other cool modules 
          
    <p align="leaft">
