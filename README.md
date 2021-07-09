@@ -7,4 +7,3 @@ A next gen powerful telegram group manager bot for manage your groups and have f
                                                                
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/The-Anki-Vector)
 
-[Developed By Pawan Theekshana](t.me/Pawan_Theekshana)
