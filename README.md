@@ -5,5 +5,5 @@ A next gen powerful telegram group manager bot for manage your groups and have f
   <img src="https://telegra.ph/file/b9844274494fcde4e0589.jpg"'>
 </p>    
                                                                
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/The-Anki-Vector)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dofini/The-Mizu-Bot)
 
