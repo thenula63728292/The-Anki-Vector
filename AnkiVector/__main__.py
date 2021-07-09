@@ -63,19 +63,19 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Dofini
+Hello there, I'm Mizu
 I'm a Powerful group manager bot With Cool Modules. Made by [Pawan Theekshana• 🇱🇰](t.me/pawan_Theekshana)
 Hit /help to find my list of available commands
  
 """
-DOfINI IMG 
+
 buttons = [
     [
-        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/DofiniUpdates"),
-        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/DifiniSupport_Official"),
+        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/MizuUpdates"),
+        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/MizuSupport_Official"),
     ],
     [
-        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/slhitbotofficial"),
+        InlineKeyboardButton(text="📚Music Group", url="https://t.me/mw_song_grup"),
         
     ],
     [
@@ -83,14 +83,15 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Dofini to your group ➕", url="http://t.me/DofiniDevBot?startgroup=true"
+            text="➕ Add Dofini to your group ➕", url="http://t.me/TheMizubotBot?startgroup=true"
         ),
     ],
 ]
 
+ANKIVECTOR_IMG = "https://telegra.ph/file/b9844274494fcde4e0589.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/b9844274494fcde4e0589.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -366,8 +367,8 @@ def AnkiVector_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"* Hi There  The name's {dispatcher.bot.first_name} \n\nAs  You I'm a next generational group management bot developed by Anki Vector Updates.* "
-            f"\n\n Join [AnkiVectorUpdates](https://t.me/ankivectorUpdates) To Keep Yourself Updated About {dispatcher.bot.first_name}"
+            text=f"* Hi There  The name's {dispatcher.bot.first_name} \n\nAs  You I'm a next generational group management bot developed by Mizu Updates.* "
+            f"\n\n Join [AnkiVectorUpdates](https://t.me/MizuUpdates) To Keep Yourself Updated About {dispatcher.bot.first_name}"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features"
             f"\n\nYou Can Know More About Me By Clicking The Below Buttons",
@@ -404,7 +405,7 @@ def AnkiVector_about_callback(update, context):
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
             f"\nIf You Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Anki Vectr Support](https://t.me/AnkiSupport_Official).\n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Mizu Support](https://t.me/MizuSupport_Official).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -426,7 +427,7 @@ def AnkiVector_about_callback(update, context):
         query.message.edit_text(
             text=f"*{dispatcher.bot.first_name} Is the redisigned version of Daisy and Naruto for the best performance.*"
             f"\n\nBased on [Anki Vector Brother](https://t.me/TheVectorBrotherbot)."
-            f"\n\n{dispatcher.bot.first_name}'s source code was written by Damantha Jasinghe"
+            f"\n\n{dispatcher.bot.first_name}'s source code was written by Pawan Theekshana"
             f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -483,7 +484,7 @@ def AnkiVector_about_callback(update, context):
             text=f"<b> ｢ Terms and Conditions 」</b>\n"
             f"\n<i>To Use This Bot, You Need To Read Terms and Conditions Carefully.</i>\n"
             f"\n✪ We always respect your privacy \n  We never log into bot's api and spying on you \n  We use a encripted database \n  Bot will automatically stops if someone logged in with api."
-            f"\n✪ Always try to keep credits, so \n  This hardwork is done by Anki Vector Updates team spending many sleepless nights.. So, Respect it."
+            f"\n✪ Always try to keep credits, so \n  This hardwork is done by Mizu Updates team spending many sleepless nights.. So, Respect it."
             f"\n✪ Some modules in this bot is owned by different authors, So, \n  All credits goes to them \n  Also for <b>Paul Larson for Marie</b>."
             f"\n✪ If you need to ask anything about \n  this bot, Go @{SUPPORT_CHAT}."
             f"\n✪ If you asking nonsense in Support \n  Chat, you will get warned/banned."
