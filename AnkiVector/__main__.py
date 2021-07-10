@@ -63,7 +63,7 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [Mizu](https://telegra.ph/file/a2f4c1588be4df272baf8.jpg)
+Hello there, I'm [Tiana](https://telegra.ph/file/a2f4c1588be4df272baf8.jpg)
 I'm a Powerful group manager bot With Cool Modules. Made by [Pawan Theekshana• 🇱🇰](t.me/pawan_Theekshana)
 Hit /help to find my list of available commands
  
@@ -83,7 +83,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Mizu to your group ➕", url="http://t.me/TheMizubot?startgroup=true"
+            text="➕ Add Tiana to your group ➕", url="http://t.me/TheTianabot?startgroup=true"
         ),
     ],
 ]
