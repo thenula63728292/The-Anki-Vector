@@ -83,7 +83,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Dofini to your group ➕", url="http://t.me/TheMizubot?startgroup=true"
+            text="➕ Add Mizu to your group ➕", url="http://t.me/TheMizubot?startgroup=true"
         ),
     ],
 ]
